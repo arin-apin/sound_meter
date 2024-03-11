@@ -8,7 +8,7 @@ The primary objective of this repository is to provide tools for measuring noise
 The repository offers functionality to measure noise levels using the default microphone on a device. This data is captured in chunks and processed for further analysis.
 
 ### Inference of Sound Types
-Utilizing advanced algorithms, the repository performs inference to determine the type of sound detected at each moment. This allows for categorization and understanding of the environmental audio.
+Utilizing Mediapipe, the repository performs inference to determine the type of sound detected at each moment. This allows for categorization and understanding of the environmental audio.
 
 ### Data Storage in CSV
 All measurements and inferred sound types are stored in a CSV (Comma-Separated Values) format. This ensures easy access to historical data for analysis and reference.
